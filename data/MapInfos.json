@@ -1,6 +1,5 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":534,"scrollY":319},
-{"id":2,"expanded":true,"name":"学校","order":2,"parentId":1,"scrollX":818,"scrollY":942},
-{"id":3,"expanded":false,"name":"学校 廊下","order":3,"parentId":2,"scrollX":832,"scrollY":624}
+{"id":1,"expanded":true,"name":"町","order":1,"parentId":0,"scrollX":536.6666666666666,"scrollY":336.6666666666667},
+{"id":2,"expanded":false,"name":"民家1","order":2,"parentId":1,"scrollX":526,"scrollY":383.3333333333333}
 ]
