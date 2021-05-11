@@ -1,5 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"neet","characterIndex":1,"characterName":"neet","classId":1,"equips":[0,1,1,2,0],"faceIndex":1,"faceName":"neet","traits":[],"initialLevel":1,"maxLevel":1,"name":"ハロワク","nickname":"世界のごくつぶし","note":"","profile":"無芸大食の無職。"},
-{"id":2,"battlerName":"変態","characterIndex":0,"characterName":"neet","classId":2,"equips":[0,0,1,2,0],"faceIndex":0,"faceName":"neet","traits":[],"initialLevel":1,"maxLevel":99,"name":"ハロルド","nickname":"通り魔","note":"","profile":"ハーローワールド、\n略してハロルド。"}
+{"id":1,"battlerName":"neet","characterIndex":1,"characterName":"neet","classId":3,"equips":[],"faceIndex":1,"faceName":"neet","traits":[],"initialLevel":1,"maxLevel":1,"name":"ハロワク","nickname":"一般勇者","note":"","profile":"どこにでもいる普通の勇者。\nこの世界では勇者は働かないのが普通だ。"},
+{"id":2,"battlerName":"変態","characterIndex":0,"characterName":"neet","classId":2,"equips":[],"faceIndex":0,"faceName":"neet","traits":[],"initialLevel":1,"maxLevel":99,"name":"ハロルド","nickname":"通り魔","note":"","profile":"ハーローワールド、\n略してハロルド。"},
+{"id":3,"battlerName":"勇者","characterIndex":3,"characterName":"neet","classId":3,"equips":[],"faceIndex":3,"faceName":"neet","traits":[],"initialLevel":1,"maxLevel":1,"name":"ハロワク","nickname":"一般勇者","note":"","profile":"どこにでもいる普通の勇者。\nこの世界では勇者は働かないのが普通だ。"},
+{"id":4,"battlerName":"勇者","characterIndex":2,"characterName":"neet","classId":3,"equips":[],"faceIndex":2,"faceName":"neet","traits":[],"initialLevel":1,"maxLevel":1,"name":"ハロワク","nickname":"一般勇者","note":"","profile":"どこにでもいる普通の勇者。\nこの世界では勇者は働かないのが普通だ。"},
+{"id":5,"battlerName":"勇者","characterIndex":4,"characterName":"neet","classId":3,"equips":[],"faceIndex":4,"faceName":"neet","traits":[],"initialLevel":1,"maxLevel":1,"name":"ハロワク","nickname":"一般勇者","note":"","profile":"どこにでもいる普通の勇者。\nこの世界では勇者は働かないのが普通だ。"}
 ]
