@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"民家1","order":3,"parentId":3,"scrollX":356,"scrollY":282},
+{"id":1,"expanded":true,"name":"民家1","order":3,"parentId":3,"scrollX":388,"scrollY":362},
 {"id":2,"expanded":false,"name":"初期","order":1,"parentId":0,"scrollX":361.3333333333333,"scrollY":203.33333333333334},
-{"id":3,"expanded":true,"name":"普通の町","order":2,"parentId":0,"scrollX":1077.3333333333333,"scrollY":1071.3333333333333},
+{"id":3,"expanded":true,"name":"普通の町","order":2,"parentId":0,"scrollX":1072,"scrollY":1066},
 {"id":4,"expanded":false,"name":"城","order":5,"parentId":0,"scrollX":1514,"scrollY":952},
 {"id":5,"expanded":false,"name":"城1F","order":6,"parentId":4,"scrollX":1086,"scrollY":1180},
 {"id":6,"expanded":false,"name":"城2F","order":7,"parentId":4,"scrollX":1100,"scrollY":816},
